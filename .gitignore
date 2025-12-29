@@ -4,7 +4,6 @@ manifest.json
 secretsManagerConfig.json
 *-packr.go
 config*.json
-polygon-edge
 
 bin/
 
