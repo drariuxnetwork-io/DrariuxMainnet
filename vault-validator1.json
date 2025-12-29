@@ -1,0 +1,8 @@
+{
+  "Type": "hashicorp-vault",
+  "Name": "drariux-validator1",
+  "Extra": {
+    "url": "http://34.134.142.139:8200",
+    "token": "drariux-root-2025"
+  }
+}
